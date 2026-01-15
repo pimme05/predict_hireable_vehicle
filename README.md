@@ -1,4 +1,4 @@
-# 🚗 Car Hire Prediction System
+# 🚗 Taxi Prediction System
 
 A machine learning project that predicts vehicle hire status using CatBoost classification with geospatial and temporal features.
 
